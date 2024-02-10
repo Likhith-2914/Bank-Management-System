@@ -1,0 +1,8 @@
+Name : N V Sai Likhith
+Rno : IMT2020118
+
+database.c populates the databases folder (already done)
+
+Admin's creation of an account have small bugs.
+
+All other features are working
